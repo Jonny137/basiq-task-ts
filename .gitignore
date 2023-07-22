@@ -1,0 +1,6 @@
+# JS utility
+node_modules
+dist
+
+# env
+.env
