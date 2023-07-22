@@ -5,7 +5,7 @@
 />
 
 # Introduction
-Task was to find all transactions for the given test user and determine the average expenditure for every category listed in the previous transactions.
+This app enables you to find all transactions for the given test user and determine the average expenditure for every category listed in the previous transactions.
 
 **NOTE**: The app relies on [BasiQ API](https://api.basiq.io/reference#getting-started).
 
