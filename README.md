@@ -1,4 +1,4 @@
-## Basiq-Task-TS
+## Basiq Task TS
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"
      alt="Markdown Node icon"
      height="50px"
